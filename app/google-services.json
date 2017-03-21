@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549962511358",
+    "firebase_url": "https://inclassassignment07-ning-fea22.firebaseio.com",
+    "project_id": "inclassassignment07-ning-fea22",
+    "storage_bucket": "inclassassignment07-ning-fea22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549962511358:android:e6588a56fa1fbcdd",
+        "android_client_info": {
+          "package_name": "com.example.cmltdstudent.inclassassignment07_ningelb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549962511358-a909g6cb81ndkoemcujh8nknt0hkpecn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSYR-YSVpDXgrAbA2BnFQXMfVM7uxKSBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
