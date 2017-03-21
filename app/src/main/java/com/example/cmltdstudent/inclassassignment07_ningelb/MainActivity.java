@@ -12,7 +12,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class MainActivity extends AppCompatActivity {
 
     private FirebaseDatabase database = FirebaseDatabase.getInstance();
-    private DatabaseReference titleRef = database.getReference("Skill");
+    private DatabaseReference titleRef = database.getReference("Title");
     private DatabaseReference skillRef = database.getReference("Math Skill");
 
     private TextView title;
